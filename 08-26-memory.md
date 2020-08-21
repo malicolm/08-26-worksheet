@@ -202,6 +202,6 @@
 
 ## Challenge
 
-1. Explain the difference between comparing objects with `==`, vs. comparing objects with `.equals()`. Read some of the search results from Google, then re-explain the difference in your own words.
+1. Java has two ways of testing if two objects are the same - `==` and `.equals()`. You might have been told to always use `.equals()`, but there *are* cases where `==` is useful. Read some of the search results from Google on how these are different, then in your own words, explain what `==` does and why you would want to use `.equals()` most of the time.
 
 2. Using [Java Tutor](http://pythontutor.com/java.html), revisit the code from Exploration Q1 or Q6. Go to where a constructor is called, and notice how the stack frame has a local variable called `this`, which does not appear in the code anywhere. What does `this` point to?
