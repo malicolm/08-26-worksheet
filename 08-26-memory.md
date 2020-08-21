@@ -1,4 +1,4 @@
-# 08/28: Memory and Pointers
+# 08/26: Memory and Pointers
 
 ## Review
 
