@@ -90,8 +90,7 @@
     }
     ```
 
-2. Arrays are also reference variables. In the code below, we create an array of three elements, then set the 0th element to 37 and the 1st element to 42. Using Java Tutor to check your answer, draw out memory at the indicated place in the code. Make sure you select "
-render all objects on the heap" and "draw pointers as arrows".
+2. Arrays are also reference variables. In the code below, we create an array of three elements, then set the 0th element to 37 and the 1st element to 42. Using Java Tutor to check your answer, draw out memory at the indicated place in the code. Make sure you select "render all objects on the heap" and "draw pointers as arrows".
 
     ```java
     public class Worksheet {
