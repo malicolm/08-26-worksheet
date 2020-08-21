@@ -152,9 +152,9 @@
 
 6. Consider the following two (equivalent) diagrams of memory below. Change the code marked `FIXME` so that memory will be as depicted at the indicated place in the code.
 
-    ![Exploration Q6](08-28-memory/exploration-q6-tutor.png)
+    ![Exploration Q6](08-26-memory/exploration-q6-tutor.png)
 
-    ![Exploration Q6](08-28-memory/exploration-q6.png)
+    ![Exploration Q6](08-26-memory/exploration-q6.png)
 
     ```java
     public class Worksheet {
@@ -180,9 +180,9 @@
 
 7. Consider the following two (equivalent) diagrams of memory below. Change the code marked `FIXME` so that memory will be as depicted at the indicated place in the code.
 
-    ![Exploration Q7](08-28-memory/exploration-q7-tutor.png)
+    ![Exploration Q7](08-26-memory/exploration-q7-tutor.png)
 
-    ![Exploration Q7](08-28-memory/exploration-q7.png)
+    ![Exploration Q7](08-26-memory/exploration-q7.png)
 
     ```java
     public class Worksheet {
