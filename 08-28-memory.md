@@ -1,6 +1,5 @@
 # 08/28: Memory and Pointers
 
-
 ## Review
 
 1. In your own words, explain what the stack is, and what kind of data goes in the stack.
@@ -202,9 +201,8 @@ render all objects on the heap" and "draw pointers as arrows".
     }
     ```
 
-
 ## Challenge
 
-1. Explain the difference between comparing objects with `==`, vs. comparing objects with `.equals()`. 
+1. Explain the difference between comparing objects with `==`, vs. comparing objects with `.equals()`. Read some of the search results from Google, then re-explain the difference in your own words.
 
-2. this
+2. Using Java Tutor, revisit the code from Exploration Q1 or Q6. Go to where a constructor is called, and notice how the stack frame has a local variable called `this`, which does not appear in the code anywhere. What does `this` point to?
