@@ -8,7 +8,7 @@
 4. *Object datatypes* are classes, such as `Car` and `Engine`. Do variables of object datatypes live in the stack or the heap?
 5. Would a `String` live in the stack or the heap? Why?
 6. In your own words, explain the difference between local variables and reference variables.
-7. Draw the stack and heap at the indicated place in the code. You can use [Java Tutor](FIXME) to check your answer.
+7. Draw the stack and heap at the indicated place in the code. You can use [Java Tutor](http://pythontutor.com/java.html) to check your answer.
 
     ```java
     public class Worksheet {
@@ -90,7 +90,7 @@
     }
     ```
 
-2. Arrays are also reference variables. In the code below, we create an array of three elements, then set the 0th element to 37 and the 1st element to 42. Using Java Tutor to check your answer, draw out memory at the indicated place in the code. Make sure you select "render all objects on the heap" and "draw pointers as arrows".
+2. Arrays are also reference variables. In the code below, we create an array of three elements, then set the 0th element to 37 and the 1st element to 42. Using [Java Tutor](http://pythontutor.com/java.html) to check your answer, draw out memory at the indicated place in the code. Make sure you select "render all objects on the heap" and "draw pointers as arrows".
 
     ```java
     public class Worksheet {
@@ -204,4 +204,4 @@
 
 1. Explain the difference between comparing objects with `==`, vs. comparing objects with `.equals()`. Read some of the search results from Google, then re-explain the difference in your own words.
 
-2. Using Java Tutor, revisit the code from Exploration Q1 or Q6. Go to where a constructor is called, and notice how the stack frame has a local variable called `this`, which does not appear in the code anywhere. What does `this` point to?
+2. Using [Java Tutor](http://pythontutor.com/java.html), revisit the code from Exploration Q1 or Q6. Go to where a constructor is called, and notice how the stack frame has a local variable called `this`, which does not appear in the code anywhere. What does `this` point to?
