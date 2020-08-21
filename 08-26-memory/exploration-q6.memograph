@@ -1,0 +1,17 @@
+stack [
+    main() {
+        Element[] elements = elements;
+    }
+];
+
+Element[] elements = {
+    Element {
+        String my_name = "Hydrogen";
+    },
+    Element {
+        String my_name = "Helium";
+    },
+    Element {
+        String my_name = "Lithium";
+    }
+};

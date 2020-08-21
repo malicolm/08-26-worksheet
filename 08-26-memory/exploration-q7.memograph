@@ -1,0 +1,21 @@
+stack [
+    main() {
+        String[] strings = strings;
+        String usa = usa;
+    },
+    other(String[] array) {
+        String[] array = strings;
+        String mexico = mexico;
+    }
+];
+
+String usa = "United States";
+String mexico = "Mexico";
+
+String[] strings = {
+    usa,
+    null,
+    mexico,
+    null,
+    "Haiti"
+};
