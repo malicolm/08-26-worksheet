@@ -159,7 +159,7 @@ render all objects on the heap" and "draw pointers as arrows".
 
     ```java
     public class Worksheet {
-        
+
         static class Element {
             private String my_name;
 
