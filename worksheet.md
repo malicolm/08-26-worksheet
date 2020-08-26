@@ -13,18 +13,18 @@
     ```java
     public class Worksheet {
 
-        public int twice(int n) {
+        public static int twice(int n) {
             int result = 2 * n;
             // DRAW MEMORY HERE
             return result;
         }
 
-        public int thrice(int n) {
+        public static int thrice(int n) {
             int result = 3 * n;
             return result;
         }
 
-        public int sixce(int n) {
+        public static int sixce(int n) {
             return twice(thrice(n))
         }
 
