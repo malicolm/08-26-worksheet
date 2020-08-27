@@ -4,8 +4,8 @@
 
 1. In your own words, explain what the stack is, and what kind of data goes in the stack.
 2. In your own words, explain what the heap is, and what kind of data goes in the heap.
-3. *Primitive datatypes* are `bool`, `char`, `short`, `int`, `long`, `float`, `double`. Do variables of primitive datatypes live in the stack or the heap?
-4. *Object datatypes* are classes, such as `Car` and `Engine`. Do variables of object datatypes live in the stack or the heap?
+3. *Primitive datatypes* are `bool`, `char`, `short`, `int`, `long`, `float`, `double`. Does the data of variables of primitive datatypes live in the stack or the heap?
+4. *Object datatypes* are classes, such as `Car` and `Engine`. Does the data of variables of object datatypes live in the stack or the heap?
 5. Would a `String` live in the stack or the heap? Why?
 6. In your own words, explain the difference between local variables and reference variables.
 7. Draw the stack and heap at the indicated place in the code. You can use [Java Tutor](http://pythontutor.com/java.html) to check your answer.
