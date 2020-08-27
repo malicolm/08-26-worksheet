@@ -25,7 +25,7 @@
         }
 
         public static int sixce(int n) {
-            return twice(thrice(n))
+            return twice(thrice(n));
         }
 
         public static void main(String [] args) {
